@@ -1,0 +1,11 @@
+[package]
+name = "not80"
+version = "0.1.0"
+authors = ["Travis Miller <travis@travismiller.com>"]
+
+[dependencies]
+dotenv = "0.10.1"
+error-chain = "0.11.0"
+futures = "0.1.14"
+hyper = "0.11"
+rustls = "0.11.0"
